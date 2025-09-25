@@ -3,3 +3,6 @@ public class Test17 {
        System.out.println("Hi, ini baris kode pertama");
     }
 }
+
+Ikan hiu makan tomat
+Nanda aylopyu somat
