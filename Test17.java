@@ -4,6 +4,3 @@ public class Test17 {
         System.out.println("User 1 menambahkan baris baru");
     }
 }
-
-Ikan hiu makan tomat
-Nanda aylopyu somat
